@@ -1,2 +1,3 @@
-# risk-kyc-swagger
-internal swagger mirror
+# internal swagger mirror
+
+placeholder
