@@ -1,3 +1,0 @@
-# internal swagger mirror
-
-placeholder
